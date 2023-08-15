@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Check out the live application here: [tasktracker-23700.web.app](https://tasktracker-23700.web.app)
 
 
 ## Available Scripts
